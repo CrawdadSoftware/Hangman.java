@@ -1,0 +1,4 @@
+zwierzeta, lew, zebra, slon, ptak, tygrys, panda, komodo, smok
+sporty, koszykowka, pilka nozna, badminton, siatkowka, golf,
+owoce, banan, pomarancza, jablko, truskawka, mango, pomidor,
+anime, naruto, one piece, dragon ball z, tokyo ghoul
